@@ -1,7 +1,10 @@
+![WhatsApp Image 2025-07-06 at 15 45 05_39b520fb](https://github.com/user-attachments/assets/62c5939e-005d-4c24-b709-da9cb584ad0c)
+
+
 # DSA-AMAZON-INVENTORY-SALES-PROJECT
 📦 Amazon Sales  Repository contains my  analysis project on Amazon sales and customer reviews, conducted using Microsoft Excel. The goal of this project is to derive insights that can support product improvement, customer engagement, and marketing strategies for sellers on the Amazon platform.  Objective  To identify key trends in sales .
-# 📊 Amazon Product & Customer Review Analysis
 
+# 📊 Amazon Product & Customer Review Analysis
 This project showcases a comprehensive analysis of Amazon product listings and customer reviews. It was carried out as part of my role as a *Junior Data Analyst* **. The goal was to uncover actionable insights that could help sellers improve product offerings, pricing strategies, and customer experience on e-commerce platforms like Amazon.
 
 ## 📁 Dataset Description
@@ -19,10 +22,7 @@ The dataset includes:
 
 > 🔍 *Source: Amazon 
 
-
-
 ## 🎯 Project Objectives
-
 - Analyze average discount percentage by product category  
 - Identify top revenue-generating products  
 - Categorize price range buckets  
@@ -38,17 +38,6 @@ The dataset includes:
 | *Excel*     | Data Cleaning, Pivot Tables, Formulas, Charts |
 
 > 💡 Skills: Data Cleaning, EDA, Aggregation, Visualization, Business Insight Communicat
-
-## 📸 Screenshots
-
-### 📌 Excel Pivot Analysis
-![Excel Screenshot](screenshots/excel_pivot.png)
-
-### 📌 Price Range Buckets Chart
-![Price Buckets](screenshots/price_buckets.png)
-
-
-
 
 ## 📌 Key Findings
 
@@ -68,7 +57,7 @@ The dataset includes:
 
 ## 🧑‍💻 About Me
 
-I’m *Loveth Njoku*, a passionate Data Analyst with skills in Excel, Power BI, SQL. I currently work as a Junior Data Analyst at RetailTech Insights and love solving business problems with data.
+I’m Loveth Njoku, a passionate and detail-oriented data analyst with a background in Human Anatomy. I transitioned into tech through the 3MTT and currently rounded up with the  Incubator Hub DSA Skilled Up Africa program. I specialize in uncovering insights from data using Excel, SPSS, SQL, and Power BI. I’m driven by purpose, resilience, and a deep desire to be a role model . I’m especially interested in gender equity, data storytelling, and using analytics to drive meaningful, impactful decisions in organizations.
 
 ## 📬 Contact
 Loveth Njoku
@@ -78,4 +67,3 @@ Junior Data Analyst | Excel |SQL|Power BI Enthusiast
 
 
 
-## ⭐ Repository Structure
