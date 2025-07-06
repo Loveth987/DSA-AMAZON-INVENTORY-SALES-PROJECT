@@ -1,3 +1,4 @@
+
 ![WhatsApp Image 2025-07-06 at 15 45 05_39b520fb](https://github.com/user-attachments/assets/62c5939e-005d-4c24-b709-da9cb584ad0c)
 
 
@@ -65,5 +66,13 @@ Junior Data Analyst | Excel |SQL|Power BI Enthusiast
 📧 Email: [njokuloveth5@gmail.com]
 🌐 LinkedIn: [ https://www.linkedin.com/in/loveth-njoku?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
+# Pivot Screenshot
 
+![Screenshot 7](https://github.com/user-attachments/assets/9757dde3-f833-4eef-8449-d8f3d55b39c0)
+![Screenshot 6](https://github.com/user-attachments/assets/149fbf96-f162-4841-8b78-af2f5ad9cd3a)
+![Screenshot 5](https://github.com/user-attachments/assets/6378a756-12ab-45a0-b3a9-da3bbdd4a7b6)
+![Screenshot 4](https://github.com/user-attachments/assets/9fb3703e-1c8a-4e87-94cd-3647526aeb41)
+![Screenshot 3](https://github.com/user-attachments/assets/ee48e7b9-5006-4eca-8f0c-1ca34d4c7c5e)
+![Screenshot 2](https://github.com/user-attachments/assets/d806c312-5e5f-439c-b5d2-b7b7ecb1988a)
+![Screenshot 1](https://github.com/user-attachments/assets/fcdb8470-60bc-432b-bd3d-3b7d9e7e483d)
 
